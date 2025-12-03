@@ -1,5 +1,5 @@
 # Figures_Scoping_Review
-Figures published in two scoping reviews related to antimicrobial resistance and social determinants of health
+The visualizations below were published in two scoping reviews related to antimicrobial resistance and social determinants of health.
 The code for the following figures are including in this repo.
 
 ## Race, ethnicity and risk for colonisation and infection with key bacterial pathogens: a scoping review
