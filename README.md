@@ -1,4 +1,4 @@
-# Figures_Scoping_Review
+# AMR Scoping Review Figures
 The visualizations below were published in two scoping reviews related to antimicrobial resistance and social determinants of health.
 The code for the following figures are including in this repo.
 
